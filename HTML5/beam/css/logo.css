@@ -1,0 +1,167 @@
+		.beam{
+			width: 1600px;
+			height: 20px;
+			background: #fff;
+			top: 290px;
+			left: -400px;
+		}
+		body{
+			margin: 0;
+			padding: 0;
+		}
+		div{
+			position: absolute;
+		}
+		.bg{
+			width: 800px;
+			height: 600px;
+			background: #f2f2f2;
+			overflow: hidden;
+		}
+		.d_shield1,.d_shield2,.d_shield3,.d_shield4,.d_shield5,.d_shield6,.d_shield7{
+			background: #e15016;
+		}
+		.d_shield1{
+			/*background: #e15016;*/
+			left: 32px;
+			width: 140px;
+			height: 346px;
+		}
+		.d_shield2{
+			transform: skewx(5deg);
+			/*background: #e15016;*/
+			left: 16px;
+			width: 100px;
+			height: 346px;
+		}
+		.d_shield3{
+			transform: skewY(15deg);
+			/*background: #e15016;*/
+			top: 265px;
+			left:32px;
+			width: 140px;
+			height: 100px;
+			}
+
+		.d_shield4{
+			/*background: #e15016;*/
+			left:172px;
+			width: 140px;
+			height: 346px;
+		}
+		.d_shield5{
+			/*background: #e15016;*/
+			transform:skewX(-5deg);
+			left: 227px;
+			width: 100px;
+			height: 346px;
+		}
+		.d_shield6{
+			/*background: #e15016;*/
+			transform: skewY(-15deg);
+			top: 265px;
+			left: 172px;
+			width: 140px;
+			height: 100px;
+		}
+		.d_shield7{
+			/*background: #e15016*/
+			height: 20px;
+			top: 199px;
+			width: 80px;
+			left: 60px;
+		}
+		.l_shield1,.l_shield2,.l_shield3,.l_shield4{
+			background: #ee6812;
+		}
+		.l_shield1{
+			/*background: #ee6812;*/
+			left: 172px;
+			width: 140px;
+			height: 346px;
+		}
+		.l_shield2{
+			/*background: #ee6812;*/
+			transform: skewX(-5deg);
+			left: 227px;
+			width: 100px;
+			height: 363px;
+		}
+		.l_shield3{
+			/*background: #ee6812;*/
+			transform: skewY(-15deg);
+			left: 172px;
+			top: 282px;
+			width: 138px;
+			height: 100px;
+		}
+		.l_shield4{
+			/*background: #ee6812;*/
+			left: 180px;
+			width: 100px;
+			height: 43px;
+			top: 113px;
+		}
+		.gray1,.gray2,.gray3,.gray4{
+			background: #ebebeb;
+		}
+		.gray1{
+			height: 43px;
+			width: 102px;
+			left: 70px;
+			top: 70px;
+		}
+		.gray2{
+			width: 46px;
+			height: 216px;
+			transform: skewX(5deg);
+			top: 70px;
+			left: 75px;
+		}
+		.gray3{
+			width: 95px;
+			height: 43px;
+			left: 77px;
+			top: 156px;
+		}
+		.gray4{
+			width: 87px;
+			height: 47px;
+			left: 85px;
+			top: 251px;
+			transform: skewY(15deg);
+		}
+		.white1,.white2,.white3,.white4{
+			background: #fff;
+		}
+		.white1{
+			width: 102px;
+			height: 43px;
+			left: 172px;
+			top: 70px;
+		}
+		.white2{
+			width: 46px;
+			height: 216px;
+			transform: skewX(-5deg);
+			top: 70px;
+			left: 223px;
+		}
+		.white3{
+			height: 43px;
+			width: 95px;
+			left: 172px;
+			top: 156px;
+		}
+		.white4{
+			height: 47px;
+			width: 87px;
+			left: 172px;
+			top: 251px;
+			transform: skewY(-15deg);
+		}
+
+
+
+
+
