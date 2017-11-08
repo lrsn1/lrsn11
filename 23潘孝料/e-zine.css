@@ -1,0 +1,35 @@
+body,h4{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url(bg.jpg);
+}
+@font-face{
+	font-family: myfont;
+	src:url('简方叠体.ttf');
+}
+.wrapper{
+	width: 1024px;
+	padding: 30px;
+	line-height: 1.75em;
+	margin: 0 auto;
+	font-family: myfont;
+	color: #333;
+	box-sizing: border-box;
+	-webkit-column-count:2;
+	-webkit-column-width:400px;
+	-webkit-column-gap:100px;
+	-webkit-column-rule:3px solid #ccc;
+	-ms-column-count:2;
+	-ms-column-width:400px;
+	-ms-column-gap:100px;
+	-ms-column-rule:3px solid #ccc;
+}
+h4{
+	font-size: 24px;
+	-webkit-column-span:all;
+}
+p{
+	font-weight: bold;
+}
